@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Rloveutionaries
 
 Young Adult Fellowship
